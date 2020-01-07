@@ -2,3 +2,5 @@ it's file for the recipe
 
 recipes are following:
   1). rice.
+  2). Dhal
+  3). curd
