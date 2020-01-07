@@ -1,0 +1,4 @@
+it's file for the recipe
+
+recipes are following:
+  1). rice.
